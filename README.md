@@ -1,1 +1,3 @@
-# this is a new repr for our new gcp devops project by deepanshu khanduri
+# Docker flask application
+~ This application is written in python
+~ It shall be deployed on GKE
